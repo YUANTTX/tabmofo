@@ -1,0 +1,15 @@
+Package: tabmofo
+Type: Package
+Title: My tabmofo
+Version: 1.0.0
+Date: 2024-03-07
+Author: [yuanttx]
+Maintainer: yuanttx <yuanttx@gmail.com>
+Description: Some functions for processing tables.
+License: GPL-3
+Depends: R (>= 3.6.0)
+Imports:
+Suggests:
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2024-03-07 07:40:07 UTC; yuanhj
